@@ -4,7 +4,7 @@
 
 I started by creating arrays full of letters, symbols, and numbers, that would be used for random generation later in the code.
 
-I then created functions that for each array that would would randomly generate a character from their respective index.
+I then created functions for each array that would would randomly generate a character from their respective index.
 
 I added window prompts/confirms in the questions function and stored the data in an object that would be called later in the generatepassword function.
 
